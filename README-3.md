@@ -2,7 +2,7 @@
 
 A modern, interactive code review interface built with **React + Vite**. Supports inline commenting, emoji reactions, diff viewing, and review submission — all in the browser.
 
-🔗 **[Live Demo](code-review-tool-blush.vercel.app)** &nbsp;|&nbsp; ⭐ Star this repo if you find it useful
+🔗 **[Live Demo](https://code-review-tool-blush.vercel.app/)** &nbsp;|&nbsp; ⭐ Star this repo if you find it useful
 
 ![ReviewFlow Screenshot](https://placehold.co/1200x600/1e293b/818cf8?text=ReviewFlow+–+Code+Review+Tool)
 
